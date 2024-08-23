@@ -86,17 +86,19 @@
 
 ## Research Publications & Presentations
 
-### Automated Prediction of Income from Farming of a Commodity  
+### Automated Prediction of Income from Farming of a Commodity: An ARIMA based framework
 **Technologies:** ARIMA  
 - Proposed an efficient ARIMA-based framework for predicting farmers' income in future years.
 - Presented at the International Conference on Optimization, Learning, and Analytics Business (Dec 2022).
 - Published in the Journal of Decision Analytics and Intelligent Computing on 21 July 2023.
+- [Publication](https://doi.org/10.31181/jdaic10021072023k)
 
 ### Efficient Healthcare Supply Chain: A Prioritized Multi-task Learning Approach with Task-specific Regularization  
 **Technologies:** NN, MTL  
 - Improved healthcare supply chain operations through a robust machine learning approach.
 - Objectives included predicting "shipping quantity" and "time to delivery" and identifying key factors influencing healthcare supply management.
 - Published in Engineering Applications of Artificial Intelligence on 14 March 2024.
+- [Publication](https://doi.org/10.1016/j.engappai.2024.108249)
 
 ### DeepCrop: An Efficient Deep Learning Approach for Monitoring Crop Growth  
 **Technologies:** Transformers  
